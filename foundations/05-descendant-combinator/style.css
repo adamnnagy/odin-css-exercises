@@ -1,0 +1,12 @@
+.text {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: large;
+}
+
+.container > .text {
+  background-color: yellow;
+  color: red;
+  text-align: center;
+  font-weight: 400;
+  font-size: x-large;
+}
