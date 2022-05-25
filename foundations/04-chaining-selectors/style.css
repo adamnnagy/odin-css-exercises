@@ -1,0 +1,12 @@
+.avatar.proportioned {
+    height: 18rem;
+}
+
+.avatar.distorted {
+    width: 12rem;
+    height: 24rem;
+}
+
+.original {
+    height: 24rem;
+}
